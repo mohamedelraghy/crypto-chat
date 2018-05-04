@@ -1,0 +1,10 @@
+G:\C# Project\chat app\chat app\bin\Debug\chat app.exe.config
+G:\C# Project\chat app\chat app\bin\Debug\chat app.exe
+G:\C# Project\chat app\chat app\bin\Debug\chat app.pdb
+G:\C# Project\chat app\chat app\obj\Debug\chat app.csprojResolveAssemblyReference.cache
+G:\C# Project\chat app\chat app\obj\Debug\chat_app.Properties.Resources.resources
+G:\C# Project\chat app\chat app\obj\Debug\chat app.csproj.GenerateResource.Cache
+G:\C# Project\chat app\chat app\obj\Debug\chat app.exe
+G:\C# Project\chat app\chat app\obj\Debug\chat app.pdb
+G:\C# Project\chat app\chat app\obj\Debug\chat_app.frmMain.resources
+G:\C# Project\chat app\chat app\obj\Debug\chat_app.frmSplashScreen.resources

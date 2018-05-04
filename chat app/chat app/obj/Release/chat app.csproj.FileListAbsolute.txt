@@ -1,0 +1,9 @@
+G:\C# Project\chat app\chat app\bin\Release\chat app.exe.config
+G:\C# Project\chat app\chat app\bin\Release\chat app.exe
+G:\C# Project\chat app\chat app\bin\Release\chat app.pdb
+G:\C# Project\chat app\chat app\obj\Release\chat_app.frmMain.resources
+G:\C# Project\chat app\chat app\obj\Release\chat_app.frmSplashScreen.resources
+G:\C# Project\chat app\chat app\obj\Release\chat_app.Properties.Resources.resources
+G:\C# Project\chat app\chat app\obj\Release\chat app.csproj.GenerateResource.Cache
+G:\C# Project\chat app\chat app\obj\Release\chat app.exe
+G:\C# Project\chat app\chat app\obj\Release\chat app.pdb
