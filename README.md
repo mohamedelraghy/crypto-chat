@@ -1,4 +1,4 @@
-# crypto-chat-
+# crypto-chat
 simple chat app - Task for IT course
 
 # follow This path
