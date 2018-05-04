@@ -167,10 +167,10 @@ namespace chat_app
 
             for (int i = 0; i < c.Length; i++)
             {
-                if (char.IsLetter(c[i]) || c[i] == '{' || c[i] == '|' || c[i] == '}' || c[i] == '{' || c[i] == '\\' || c[i] == '[' || c[i] == ']') 				c[i] -= (char)3;
+                if (char.IsLetter(c[i]) || c[i] == '{' || c[i] == '|' || c[i] == '}' || c[i] == '{' || c[i] == '\\' || c[i] == '[' || c[i] == ']') c[i] -= (char)3;
             }
 
-            return s = new string(c); ;
+            return s = new string(c);
         }
 
         private void button3_Click(object sender, EventArgs e)
